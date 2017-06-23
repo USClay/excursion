@@ -1,0 +1,41 @@
+h1 {
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+html {
+  background-color: black;
+  font-family: Verdana;
+}
+
+#aqua-link {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h4 {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
+}
